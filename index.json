@@ -1,0 +1,118 @@
+{
+  "supportURL": "https://discord.gg/GTyjKHuKhx",
+  "module": [],
+  "world": [
+    {
+      "name": "idrotfm",
+      "source": "idrotfm",
+      "title": "Icewind Dale: Rime of the Frostmaiden",
+      "manifestUrl": "https://gateway.ipfs.io/ipfs/QmayMEGFmJZ57ytBa88QcaSE5YnUD13PLLbp9AFAJvknq9/world.json",
+      "download": "https://gateway.ipfs.io/ipfs/QmayMEGFmJZ57ytBa88QcaSE5YnUD13PLLbp9AFAJvknq9/idrotfm-1.0.0.zip",
+      "description": "<blockquote>Some secrets are worth dying for</blockquote><p>Feel the cold touch of death in this adventure for the world&rsquo;s greatest roleplaying game. In Icewind Dale, adventure is a dish best served cold.</p><p>Beneath the unyielding night sky, you stand before a towering glacier and recite an ancient rhyme, causing a crack to form in the great wall of ice. Beyond this yawning fissure, the Caves of Hunger await. And past this icy dungeon is a secret so old and terrifying that few dare speak of it. The mad wizards of the Arcane Brotherhood long to possess that which the god of winter&rsquo;s wrath has so coldly preserved&mdash;as do you! What fantastic secrets and treasures are entombed in the sunless heart of the glacier, and what will their discovery mean for the denizens of Icewind Dale? Can you save Ten-Towns from the Frostmaiden&rsquo;s everlasting night?</p><p>Icewind Dale: Rime of the Frostmaiden&nbsp;is a tale of dark terror that revisits the forlorn, flickering candlelights of civilization known as Ten-Towns and sheds light on the many bone-chilling locations that surround these frontier settlements.</p><h3>Product Information</h3><blockquote><ul><li><strong>System:</strong> D&amp;D 5E (Forgotten Realms)</li><li><strong>Starting Level:</strong> Low (1-15)</li><li><strong>Length:</strong> Long Campaign</li><li><strong>Language:</strong> English</li></ul></blockquote><hr /><p><strong>DISCLAIMER:</strong>&nbsp;The use of this is meant for use for your personal use, and only if you legally possess such in accordance with your local laws.</p>",
+      "image": "https://gateway.ipfs.io/ipfs/QmayMEGFmJZ57ytBa88QcaSE5YnUD13PLLbp9AFAJvknq9/cover.webp",
+      "releaseType": "core",
+      "length": "campaign",
+      "setting": "Forgotten Realms",
+      "keywords": [
+        "wotc",
+        "forgotten realms",
+        "idrotfm",
+        "Icewind Dale: Rime of the Frostmaiden"
+      ],
+      "authors": [
+        {
+          "name": "Wizards of the Coast",
+          "url": "https://dnd.wizards.com/"
+        },
+        {
+          "name": "Worlds of the Community Team",
+          "url": "https://discord.gg/GTyjKHuKhx"
+        }
+      ],
+      "dependencies": [
+        {
+          "name": "plutonium",
+          "title": "Plutonium",
+          "type": "module",
+          "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
+          "version": "1.39.0",
+          "author": {
+            "name": "Giddy"
+          }
+        },
+        {
+          "name": "dnd5e",
+          "title": "DnD5e - Fifth Edition System",
+          "type": "system",
+          "manifest": "https://gitlab.com/foundrynet/dnd5e/raw/master/system.json",
+          "version": "1.4.3",
+          "author": {
+            "name": "Atropos"
+          }
+        }
+      ],
+      "system": "dnd5e",
+      "version": "1.0.0",
+      "minimumCoreVersion": "0.8.8",
+      "compatibleCoreVersion": "0.8.9",
+      "minimumSystemVersion": "1.4.3",
+      "compatibleSystemVersion": "1.4.3"
+    },
+    {
+      "name": "lmop",
+      "source": "lmop",
+      "title": "Lost Mine of Phandelver",
+      "manifestUrl": "https://gateway.ipfs.io/ipfs/QmTYosc5t3orduSDqfLod52tinncNVG2Q7HkLDmpZ9CmAS/world.json",
+      "download": "https://gateway.ipfs.io/ipfs/QmTYosc5t3orduSDqfLod52tinncNVG2Q7HkLDmpZ9CmAS/lmop-1.0.3.zip",
+      "description": "<p>Based in and around the town of Phandalin, Lost Mine of Phandelver is a module that sees players attempting to rescue two friends from a band of goblin kidnappers who are ambushing innocent civilians along the main road. Their quest will eventually take them into the town itself as the party is accosted by all manner of villainous individuals, from a gang of vicious criminals to a mysterious figure who seems to be the mastermind behind the whole diabolical plot.<br /><br /></p>\n<h3>Product Information</h3>\n<blockquote>\n<ul>\n<li><strong>System:</strong> D&amp;D 5e (Forgotten Realms)</li>\n<li><strong>Starting Level:</strong> Low (1-5)</li>\n<li><strong>Length:</strong> Short Campaign</li>\n<li><strong>Language:</strong> English</li>\n</ul>\n</blockquote>\n<hr />\n<p><strong>DISCLAIMER:</strong>The use of this is meant for use for your personal use, and only if you legally possess such in accordance with your local laws.</p>",
+      "image": "https://gateway.ipfs.io/ipfs/QmTYosc5t3orduSDqfLod52tinncNVG2Q7HkLDmpZ9CmAS/cover.webp",
+      "releaseType": "core",
+      "length": "campaign",
+      "setting": "Forgotten Realms",
+      "keywords": [
+        "wotc",
+        "forgotten realms",
+        "lmop",
+        "Lost Mine of Phandelver"
+      ],
+      "authors": [
+        {
+          "name": "Wizards of the Coast",
+          "url": "https://dnd.wizards.com/"
+        },
+        {
+          "name": "Worlds of the Community Team",
+          "url": "https://discord.gg/GTyjKHuKhx"
+        }
+      ],
+      "dependencies": [
+        {
+          "name": "plutonium",
+          "title": "Plutonium",
+          "type": "module",
+          "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
+          "version": "1.39.0",
+          "author": {
+            "name": "Giddy"
+          }
+        },
+        {
+          "name": "dnd5e",
+          "title": "DnD5e - Fifth Edition System",
+          "type": "system",
+          "manifest": "https://gitlab.com/foundrynet/dnd5e/raw/master/system.json",
+          "version": "1.4.3",
+          "author": {
+            "name": "Atropos"
+          }
+        }
+      ],
+      "system": "dnd5e",
+      "version": "1.0.3",
+      "minimumCoreVersion": "0.8.8",
+      "compatibleCoreVersion": "0.8.9",
+      "minimumSystemVersion": "1.4.3",
+      "compatibleSystemVersion": "1.4.3"
+    }
+  ]
+}
