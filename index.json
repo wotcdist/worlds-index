@@ -3,6 +3,62 @@
   "module": [],
   "world": [
     {
+      "name": "ckms",
+      "source": "ckms",
+      "title": "Candlekeep Mysteries",
+      "manifestUrl": "https://gateway.ipfs.io/ipfs/QmeX32oWvvohqAW8fAgCV3WcehW2qWn9A8KmmLXnQnEaSm/world.json",
+      "download": "https://gateway.ipfs.io/ipfs/QmeX32oWvvohqAW8fAgCV3WcehW2qWn9A8KmmLXnQnEaSm/ckms-1.0.0.zip",
+      "description": "<p>Candlekeep attracts scholars like a flame attracts moths. Historians, sages, and others who crave knowledge flock to this library fortress to peruse its vast collection of books, scribbled into which are the answers to the mysteries that bedevil them. Many of these books contain their own mysteries—each one a doorway to adventure. Dare you cross that threshold?</p><h3>Product Information</h3><blockquote><ul><li><strong>System:</strong> D&amp;D 5e (Forgotten Realms)</li><li><strong>Level Range:</strong> 1-16</li><li><strong>Length:</strong> Short Adventures</li><li><strong>Language: </strong>English</li></ul></blockquote><hr /><p><strong>Disclaimer:</strong> The use of this is meant for use for your personal use, and only if you legally possess such in accordance with your local laws.</p>",
+      "image": "https://gateway.ipfs.io/ipfs/QmeX32oWvvohqAW8fAgCV3WcehW2qWn9A8KmmLXnQnEaSm/cover.webp",
+      "releaseType": "core",
+      "length": "campaign",
+      "setting": "Forgotten Realms",
+      "keywords": [
+        "wotc",
+        "forgotten realms",
+        "ckms",
+        "Candlekeep Mysteries"
+      ],
+      "authors": [
+        {
+          "name": "Wizards of the Coast",
+          "url": "https://dnd.wizards.com/"
+        },
+        {
+          "name": "Worlds of the Community Team",
+          "url": "https://discord.gg/GTyjKHuKhx"
+        }
+      ],
+      "dependencies": [
+        {
+          "name": "plutonium",
+          "title": "Plutonium",
+          "type": "module",
+          "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
+          "version": "1.39.2",
+          "author": {
+            "name": "Giddy"
+          }
+        },
+        {
+          "name": "dnd5e",
+          "title": "DnD5e - Fifth Edition System",
+          "type": "system",
+          "manifest": "https://gitlab.com/api/v4/projects/foundrynet%2Fdnd5e/packages/generic/dnd5e/latest/system.json",
+          "version": "1.5.2",
+          "author": {
+            "name": "Atropos"
+          }
+        }
+      ],
+      "system": "dnd5e",
+      "version": "1.0.0",
+      "minimumCoreVersion": "0.8.8",
+      "compatibleCoreVersion": "0.8.9",
+      "minimumSystemVersion": "1.5.2",
+      "compatibleSystemVersion": "1.5.2"
+    },    
+    {
       "name": "idrotfm",
       "source": "idrotfm",
       "title": "Icewind Dale: Rime of the Frostmaiden",
