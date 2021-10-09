@@ -6,10 +6,10 @@
       "name": "idrotfm",
       "source": "idrotfm",
       "title": "Icewind Dale: Rime of the Frostmaiden",
-      "manifestUrl": "https://gateway.ipfs.io/ipfs/QmayMEGFmJZ57ytBa88QcaSE5YnUD13PLLbp9AFAJvknq9/world.json",
-      "download": "https://gateway.ipfs.io/ipfs/QmayMEGFmJZ57ytBa88QcaSE5YnUD13PLLbp9AFAJvknq9/idrotfm-1.0.0.zip",
-      "description": "<blockquote>Some secrets are worth dying for</blockquote><p>Feel the cold touch of death in this adventure for the world&rsquo;s greatest roleplaying game. In Icewind Dale, adventure is a dish best served cold.</p><p>Beneath the unyielding night sky, you stand before a towering glacier and recite an ancient rhyme, causing a crack to form in the great wall of ice. Beyond this yawning fissure, the Caves of Hunger await. And past this icy dungeon is a secret so old and terrifying that few dare speak of it. The mad wizards of the Arcane Brotherhood long to possess that which the god of winter&rsquo;s wrath has so coldly preserved&mdash;as do you! What fantastic secrets and treasures are entombed in the sunless heart of the glacier, and what will their discovery mean for the denizens of Icewind Dale? Can you save Ten-Towns from the Frostmaiden&rsquo;s everlasting night?</p><p>Icewind Dale: Rime of the Frostmaiden&nbsp;is a tale of dark terror that revisits the forlorn, flickering candlelights of civilization known as Ten-Towns and sheds light on the many bone-chilling locations that surround these frontier settlements.</p><h3>Product Information</h3><blockquote><ul><li><strong>System:</strong> D&amp;D 5E (Forgotten Realms)</li><li><strong>Starting Level:</strong> Low (1-15)</li><li><strong>Length:</strong> Long Campaign</li><li><strong>Language:</strong> English</li></ul></blockquote><hr /><p><strong>DISCLAIMER:</strong>&nbsp;The use of this is meant for use for your personal use, and only if you legally possess such in accordance with your local laws.</p>",
-      "image": "https://gateway.ipfs.io/ipfs/QmayMEGFmJZ57ytBa88QcaSE5YnUD13PLLbp9AFAJvknq9/cover.webp",
+      "manifestUrl": "https://gateway.ipfs.io/ipfs/QmVC7VfQvjgdi1VF3pp7j1N5kuLhNRMfEvtkcBdS12kEPt/world.json",
+      "download": "https://gateway.ipfs.io/ipfs/QmVC7VfQvjgdi1VF3pp7j1N5kuLhNRMfEvtkcBdS12kEPt/idrotfm-1.0.1.zip",
+      "description": "<blockquote>Some secrets are worth dying for</blockquote><p>Feel the cold touch of death in this adventure for the world’s greatest roleplaying game. In Icewind Dale, adventure is a dish best served cold.</p><p>Beneath the unyielding night sky, you stand before a towering glacier and recite an ancient rhyme, causing a crack to form in the great wall of ice. Beyond this yawning fissure, the Caves of Hunger await. And past this icy dungeon is a secret so old and terrifying that few dare speak of it. The mad wizards of the Arcane Brotherhood long to possess that which the god of winter’s wrath has so coldly preserved—as do you! What fantastic secrets and treasures are entombed in the sunless heart of the glacier, and what will their discovery mean for the denizens of Icewind Dale? Can you save Ten-Towns from the Frostmaiden’s everlasting night?</p><p>Icewind Dale: Rime of the Frostmaiden is a tale of dark terror that revisits the forlorn, flickering candlelights of civilization known as Ten-Towns and sheds light on the many bone-chilling locations that surround these frontier settlements.</p><h3>Product Information</h3><blockquote><ul><li><strong>System:</strong> D&amp;D 5E (Forgotten Realms)</li><li><strong>Starting Level:</strong> Low (1-15)</li><li><strong>Length:</strong> Long Campaign</li><li><strong>Language:</strong> English</li></ul></blockquote><hr /><p><strong>DISCLAIMER:</strong> The use of this is meant for use for your personal use, and only if you legally possess such in accordance with your local laws.</p>",
+      "image": "https://gateway.ipfs.io/ipfs/QmVC7VfQvjgdi1VF3pp7j1N5kuLhNRMfEvtkcBdS12kEPt/cover.webp",
       "releaseType": "core",
       "length": "campaign",
       "setting": "Forgotten Realms",
@@ -35,7 +35,7 @@
           "title": "Plutonium",
           "type": "module",
           "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
-          "version": "1.39.0",
+          "version": "1.39.2",
           "author": {
             "name": "Giddy"
           }
@@ -44,19 +44,19 @@
           "name": "dnd5e",
           "title": "DnD5e - Fifth Edition System",
           "type": "system",
-          "manifest": "https://gitlab.com/foundrynet/dnd5e/raw/master/system.json",
-          "version": "1.4.3",
+          "manifest": "https://gitlab.com/api/v4/projects/foundrynet%2Fdnd5e/packages/generic/dnd5e/latest/system.json",
+          "version": "1.5.2",
           "author": {
             "name": "Atropos"
           }
         }
       ],
       "system": "dnd5e",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "minimumCoreVersion": "0.8.8",
       "compatibleCoreVersion": "0.8.9",
-      "minimumSystemVersion": "1.4.3",
-      "compatibleSystemVersion": "1.4.3"
+      "minimumSystemVersion": "1.5.2",
+      "compatibleSystemVersion": "1.5.2"
     },
     {
       "name": "lmop",
