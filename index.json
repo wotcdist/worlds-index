@@ -3,6 +3,62 @@
   "module": [],
   "world": [
     {
+      "name": "toa",
+      "source": "toa",
+      "title": "Tomb of Annihilation",
+      "manifestUrl": "https://gateway.ipfs.io/ipfs/QmaEfwqvdcsp3HW4oqvzijSS7hnDATE8JvNLspCjFE5V5r/world.json",
+      "download": "https://gateway.ipfs.io/ipfs/QmaEfwqvdcsp3HW4oqvzijSS7hnDATE8JvNLspCjFE5V5r/toa-1.0.0.zip",
+      "description": "<p>A shocking rumor buzzes through the Forgotten Realms; a mysterious affliction is targeting those who have been raised from the dead. This wasting disease, which marches its victims back toward the death they once defied, has been dubbed the “death curse.” When this wretched sorcery claims a life, divine magic no longer revives them. Any others who fall to their demise, through natural or unnatural causes, is similarly lost to the living realm.</p><p>Adventurers who wish to stop this devastation must travel to the peninsula of Chult to find the source of this death curse and destroy it. Chult is a tropical wilderness composed mostly of jungles, plateaus, impassable mountains, and belching volcanoes.</p><p>Tomb of Annihilation is a Dungeons &amp; Dragons fifth edition adventure designed to begin with a party of four to six 1st-level characters, who should advance to 11th level or higher by the story’s conclusion.</p><p> </p><h3>Foundry Enhancements:</h3><ul><li>Rotating Map Tokens to represent spinning room features.</li><li>Players’ map of Chult with revealable areas that become unveiled as the party explores this vast new land.</li><li>Interactive player puzzles.</li><li>Rollable Tables for all shapeshifters, and Rollable Tables and Macro Options for all random encounters.</li></ul><p> </p><h3>Product Information</h3><blockquote><ul><li>System: <strong>D&amp;D 5E (Forgotten Realms)</strong></li><li>Starting Level: <strong>Low (1)</strong></li><li>Length: <strong>Long Campaign</strong></li></ul></blockquote><p> </p><hr /><p><strong>DISCLAIMER:</strong> The use of this is meant for use for your personal use, and only if you legally possess such in accordance with your local laws.</p>",
+      "image": "https://gateway.ipfs.io/ipfs/QmaEfwqvdcsp3HW4oqvzijSS7hnDATE8JvNLspCjFE5V5r/cover.webp",
+      "releaseType": "core",
+      "length": "campaign",
+      "setting": "Forgotten Realms",
+      "keywords": [
+        "wotc",
+        "forgotten realms",
+        "toa",
+        "Tomb of Annihilation"
+      ],
+      "authors": [
+        {
+          "name": "Wizards of the Coast",
+          "url": "https://dnd.wizards.com/"
+        },
+        {
+          "name": "Worlds of the Community Team",
+          "url": "https://discord.gg/GTyjKHuKhx"
+        }
+      ],
+      "dependencies": [
+        {
+          "name": "plutonium",
+          "title": "Plutonium",
+          "type": "module",
+          "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
+          "version": "1.40.1",
+          "author": {
+            "name": "Giddy"
+          }
+        },
+        {
+          "name": "dnd5e",
+          "title": "DnD5e - Fifth Edition System",
+          "type": "system",
+          "manifest": "https://gitlab.com/api/v4/projects/foundrynet%2Fdnd5e/packages/generic/dnd5e/latest/system.json",
+          "version": "1.5.3",
+          "author": {
+            "name": "Atropos"
+          }
+        }
+      ],
+      "system": "dnd5e",
+      "version": "1.0.0",
+      "minimumCoreVersion": "0.8.8",
+      "compatibleCoreVersion": "0.8.9",
+      "minimumSystemVersion": "1.5.3",
+      "compatibleSystemVersion": "1.5.3"
+    },    
+    {
       "name": "ckms",
       "source": "ckms",
       "title": "Candlekeep Mysteries",
